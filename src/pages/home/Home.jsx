@@ -46,7 +46,7 @@ const Home = () => {
     </div>
     <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
       <img
-        src="./public/lmsHero.jpeg"
+        src="lmsHero.jpeg"
         alt="mockup"
       />
     </div>
@@ -68,5 +68,6 @@ const Home = () => {
    </>
   )
 }
+
 
 export default Home
