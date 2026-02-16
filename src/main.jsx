@@ -7,7 +7,7 @@ import { UserContextProvider } from './context/UserContext'
 import { CourseContextProvider } from './context/CourseContext'
 
 
-export const server = 'https://learnify-server-6dai.onrender.com'
+export const server = 'https://learnify-server-1-gtl4.onrender.com'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <UserContextProvider>
